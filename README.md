@@ -9,7 +9,7 @@ The code is licensed under the MIT license. For use of the code in research, ple
 ## Contents
 The project root folder contains measured or estimated data for the twelve tree species, including canopy gap fraction, leaf clustering, and color-change/drop/regrowth schedules (`Canopy and Schedules.xlsx`), parameters used to generate branch systems based on a modified version of [proctree.js](https://github.com/supereggbert/proctree.js/) (`Branch Parameters.xlsx`), and measured leaf color data (`Colour Measurements.xlsx`).
 
-A subfolder, [Tree Generator](./Tree Generator/), contains a Rhino-Grasshopper script to generate branch and tree canopy mesh geometries based on user input parameters. This includes a modified port of [proctree.js](https://github.com/supereggbert/proctree.js/) to Python and a call to an external custom version of [gen_tree](https://github.com/C38C/gen_tree). To use this script, you must have Python (>=2.7) installed with the Numpy and Scipy modules.
+A subfolder, `Tree Generator/`, contains a Rhino-Grasshopper script to generate branch and tree canopy mesh geometries based on user input parameters. This includes a modified port of [proctree.js](https://github.com/supereggbert/proctree.js/) to Python and a call to an external custom version of [gen_tree](https://github.com/C38C/gen_tree). To use this script, you must have Python (>=2.7) installed with the Numpy and Scipy modules.
 
 
 ## Dependencies
