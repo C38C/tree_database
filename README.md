@@ -13,7 +13,7 @@ A subfolder, `./Tree Generator`, contains a Rhino-Grasshopper script to generate
 
 
 ## Dependencies
-- Rhinoveros 3D & Grasshopper
+- Rhinoceros 3D & Grasshopper
 - Python `>= 2.7`
 - Numpy & Scipy
 
